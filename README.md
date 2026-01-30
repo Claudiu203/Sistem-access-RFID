@@ -115,3 +115,12 @@ Designul permite montaj stabil, mentenanță ușoară și un aspect compact.
 - Rețea: ESP8266 (AT Commands)
 
 ---
+## 👥 Autori
+
+- Claudiu Acosti  
+- Cristina Lupescu  
+- Mircea Ivescu  
+- Bianca Ciobanu  
+
+**Academia Tehnică Militară „Ferdinand I” – București**
+
